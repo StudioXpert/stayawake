@@ -4,6 +4,7 @@
 สำหรับคนใช้ External Harddisk บางยี่ห้อที่สั่งปิด Sleep แล้วยังดื้อ Sleep เองต่อ (เหมือนของผม)
 Stay Awake
 https://github.com/StudioXpert/stayawake/
+
 ข้อดี
  - ใช้ง่ายแตกไฟล์ Double Click จบ
  - ปลุก Harddisk ทุกตัวพร้อมกัน ตั้งแต่ Drive C ยัน Z
